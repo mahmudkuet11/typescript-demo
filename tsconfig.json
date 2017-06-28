@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "System",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "target": "ES5",
+        "outFile": "dist/modules.js",
+        "pretty": true
+    },
+    "include": [
+        "src/Blog.ts"
+    ]
+}
